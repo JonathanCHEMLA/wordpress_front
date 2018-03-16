@@ -1,0 +1,51 @@
+/*
+Theme Name: Splendid Portfolio child
+Theme URI: https://www.benjlu.com/portfolio/splendid-portfolio/
+Author: Thibault Truffert
+Author URI: https://www.ladressedemonsite.com/
+Description: A simple theme child to create my portfolio.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, custom-background, custom-header, custom-menu, featured-images, left-sidebar, portfolio, one-column, right-sidebar, threaded-comments, translation-ready, two-columns
+Version: 0.0.1
+Text Domain: splendid-portfolio
+Template:    splendid-portfolio
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+}
+
+.continue-reading a{
+    border-radius:4px;
+}
+.entry-excerpt{
+    font-family:'roboto', serif;
+    font-size:1.188em;
+}
+
+#site-header{
+    background-size:cover ; 
+}
+
+.site-firstletter {
+    font-family: 'Tangerine', cursive;
+    text-transform: none;
+}
+
+.site-title{
+    color: 'blue';
+}
+
+.entry-title{
+    margin-top:50px;
+    text-align:center !important;
+    color:red;
+    text-decoration-color: aquamarine !important;
+}
+

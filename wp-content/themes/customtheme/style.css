@@ -1,0 +1,16 @@
+/*
+Theme Name: Custom Theme
+Theme URI: https://wordpress.org/themes/twentyfifteen/
+Author: Le nom de notre entreprise
+Author URI: https://wordpress.org/ <--mettre celui de notre entreprise
+Description: A very basic theme, designed to learn wordpress integration
+version: 0.1
+License: GNU General Public License v2 or later <- modifier cette licence par la notre car celle ci permet un acces libre de nos utilisations, ce qu on ne souhaite pas
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  <-- on la laisse car c est cell qui corrspondf a la licence cpl
+Tags: basic, plainhtml, nostyle
+
+*/
+
+ * {  /*mon body et les elements dans mon body*/
+    font-family:Arial, Helvetica, sans-serif;
+}
